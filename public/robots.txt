@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /node_modules/
+
+Sitemap: https://pdf.verynt.com/sitemap.xml
